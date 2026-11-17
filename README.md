@@ -1,16 +1,17 @@
-### Jacob Wang
+## About Me
 
-Founder of **[Solvere](https://solvere.sg)**. We turn MAS notices into short films, so staff at financial institutions remember their obligations and compliance teams can evidence understanding, not just attendance.
+Hey, I'm **Jacob**! I'm the founder of [Solvere](https://solvere.sg) and an incoming freshman at Wharton (Davis Scholar). I work at the intersection of financial regulation, AI and video, and I also do power systems research.
 
-**Now:** building Solvere · power systems research on flexible grid connections  
-**Before:** founded Dronaqua (autonomous drones for PFAS water detection) · research at NUS and MIT · intern at Dymon Asia Capital  
-**Next:** Wharton (Davis Scholar)  
-**Selected:** USAMO qualifier · 1st in Asia, AMC 12A
+## Projects
 
-#### Research
+- [Solvere](https://solvere.sg) - mandatory compliance training as short films, written from the MAS notices and mapped obligation by obligation, so staff remember what they were trained on.*
+- [flexible-load-hc](https://github.com/jacobwanghy/flexible-load-hc) - hosting capacity and curtailment of flexible connections for large medium-voltage loads across SimBench grids. Submitted to IEEE PES General Meeting 2027.*
+- Dronaqua - autonomous drones for detecting PFAS contamination in water.*
 
-- *Hosting Capacity Gains and Curtailment Burden of Flexible Connections for Large Medium-Voltage Loads* (with Heng Yu Wang). Submitted to IEEE PES General Meeting 2027. Code and results: [flexible-load-hc](https://github.com/jacobwanghy/flexible-load-hc)
+## Background
 
-#### Contact
+- Research at NUS and MIT
+- Intern, Dymon Asia Capital
+- USAMO qualifier · 1st in Asia, AMC 12A
 
-jacob.wang@solvere.sg · Singapore
+*Denotes project creator/co-founder.
