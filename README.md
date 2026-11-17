@@ -1,5 +1,3 @@
-![Solvere](solvere-banner-3-indigo-grid.png)
-
 ## About Me
 
 Hey, I'm **Jacob**! I'm the founder of [Solvere](https://solvere.sg) and an incoming freshman at Wharton (Davis Scholar). I work at the intersection of financial regulation, AI and video, and I also do power systems research.
